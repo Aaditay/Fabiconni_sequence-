@@ -30,7 +30,7 @@ int main() {
 	std::cout << " Enter the label" << std::endl;
 	std::cin >> label;
 
-	std::cout << " Enter value of a and b " << std::endl;
+	std::cout << " Enter two starting values" << std::endl;
 
 	std::cin >> a >> b;
 	std::cout << "Eneter number of elements in that            ::::::::       ";
